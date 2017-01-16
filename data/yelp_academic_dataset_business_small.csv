@@ -1,0 +1,137 @@
+attributes.Ambience.divey,attributes.Music.live,attributes.Happy Hour,attributes.Ambience.trendy,attributes.Delivery,attributes.Smoking,hours.Wednesday.close,attributes.Wi-Fi,open,attributes.Order at Counter,city,attributes.Wheelchair Accessible,attributes.BYOB,attributes.Ambience.casual,hours.Friday.open,attributes.Ambience.upscale,stars,latitude,attributes.Outdoor Seating,type,attributes.Alcohol,attributes.Caters,attributes.Ambience.classy,attributes.By Appointment Only,attributes.Parking.lot,business_id,attributes.Ambience.touristy,attributes.Good For.latenight,attributes.Corkage,hours.Tuesday.open,attributes.Good For.dinner,categories,attributes.Waiter Service,hours.Monday.open,name,attributes.Coat Check,attributes.Parking.street,longitude,hours.Monday.close,attributes.BYOB/Corkage,hours.Tuesday.close,attributes.Ambience.intimate,attributes.Music.background_music,hours.Saturday.close,attributes.Price Range,attributes.Good For.breakfast,attributes.Parking.garage,attributes.Music.karaoke,attributes.Good for Kids,attributes.Parking.validated,attributes.Good For Dancing,review_count,attributes.Music.dj,hours.Thursday.open,attributes.Has TV,hours.Sunday.close,state,attributes.Accepts Credit Cards,hours.Friday.close,attributes.Good For.lunch,attributes.Good For Kids,attributes.Parking.valet,attributes.Ambience.hipster,attributes.Take-out,full_address,attributes.Good For.brunch,hours.Thursday.close,hours.Wednesday.open,attributes.Noise Level,hours.Sunday.open,attributes.Attire,attributes.Good For.dessert,attributes.Drive-Thru,attributes.Good For Groups,neighborhoods,attributes.Music.video,attributes.Ambience.romantic,attributes.Takes Reservations,attributes.Music.jukebox,hours.Saturday.open
+,,,,,,17:00,,True,,Phoenix,,,,08:00,,3.5,33.499313,,business,,,,True,,vcNAWiLM4dR7D2nwwJ7nCA,,,,08:00,,"['Doctors', 'Health & Medical']",,08:00,"Eric Goldberg, MD",,,-111.983758,17:00,,17:00,,,,,,,,,,,9,,08:00,,,AZ,,17:00,,,,,,"4840 E Indian School Rd
+Ste 101
+Phoenix, AZ 85018",,17:00,08:00,,,,,,,[],,,,,
+,,True,,,,,,True,,Dravosburg,,,,,,3.5,40.350519,False,business,,,,,,UsFtqoBl7naz8AVUBZMjQQ,,,,,,['Nightlife'],,,Clancy's Pub,,,-79.88693,,,,,,,1,,,,,,,4,,,,,PA,True,,,,,,,"202 McClure St
+Dravosburg, PA 15034",,,,,,,,,True,[],,,,,
+,,,,,,,,False,,Bethel Park,,,,,,2.5,40.3568962,,business,,,,,,cE27W9VPgO88Qxe4ol6y_g,,,,,,"['Active Life', 'Mini Golf', 'Golf']",,,Cool Springs Golf Center,,,-80.01591,,,,,,,,,,,True,,,5,,,,,PA,,,,,,,,"1530 Hamilton Rd
+Bethel Park, PA 15234",,,,,,,,,,[],,,,,
+,,,,,,21:00,,True,,Pittsburgh,,,,10:00,,3.5,40.35762,,business,,,,,,HZdLhv6COCleJMo7nPl-RA,,,,10:00,,"['Shopping', 'Home Services', 'Internet Service Providers', 'Mobile Phones', 'Professional Services', 'Electronics']",,10:00,Verizon Wireless,,,-80.05998,21:00,,21:00,,,21:00,,,,,,,,3,,10:00,,18:00,PA,,21:00,,,,,,"301 S Hills Vlg
+Pittsburgh, PA 15241",,21:00,10:00,,11:00,,,,,[],,,,,10:00
+False,,False,False,False,no,19:00,no,True,,Braddock,,,False,10:00,False,4.5,40.408735,False,business,full_bar,True,False,,False,mVHrayjG3uZ_RLHkLj-AMg,False,False,,10:00,False,"['Bars', 'American (New)', 'Nightlife', 'Lounges', 'Restaurants']",True,,Emil's Lounge,False,False,-79.8663507,,,19:00,False,,16:00,1,False,False,,True,False,False,11,False,10:00,True,,PA,True,20:00,False,,False,False,True,"414 Hawkins Ave
+Braddock, PA 15104",False,19:00,10:00,average,,casual,False,,True,[],,False,False,,10:00
+False,,True,False,False,outdoor,,free,True,,Carnegie,,,True,,False,4.0,40.415517,True,business,full_bar,False,False,,True,KayYbHCt-RkbGcPdGOThNg,False,False,,,True,"['Bars', 'American (Traditional)', 'Nightlife', 'Restaurants']",True,,Alexion's Bar & Grill,False,False,-80.067534,,,,False,,,1,False,False,,False,False,True,15,False,,True,,PA,True,,False,,False,False,True,"141 Hawthorne St
+Greentree
+Carnegie, PA 15106",False,,,loud,,casual,False,,True,['Greentree'],,False,False,,
+,,,,,,,,True,,Carnegie,,,,,,1.5,40.394588,,business,,,,,,b12U9TFESStdy7CsTtcOeg,,,,,,"['Auto Repair', 'Automotive']",,,Flynn's E W Tire Service Center,,,-80.0844539,,,,,,,,,,,,,,5,,,,,PA,,,,,,,,"718 Hope Hollow Rd
+Carnegie, PA 15106",,,,,,,,,,[],,,,,
+,,,,,,,,True,,Carnegie,,,,,,4.0,40.4054039,,business,,,,,,Sktj1eHQFuVa-M4bgnEh8g,,,,,,"['Active Life', 'Mini Golf']",,,Forsythe Miniature Golf & Snacks,,,-80.0762665,,,,,,,,,,,True,,,4,,,,,PA,,,,,,,,"920 Forsythe Rd
+Carnegie
+Carnegie, PA 15106",,,,,,,,,,['Carnegie'],,,,,
+,,,,,,,,True,,Carnegie,,,,,,2.5,40.406324,,business,,,,,,3ZVKmuK2l7uXPE6lXY4Dbg,,,,,,"['Home Services', 'Contractors']",,,Quaker State Construction,,,-80.090357,,,,,,,,,,,,,,3,,,,,PA,,,,,,,,"8 Logan St
+Carnegie
+Carnegie, PA 15106",,,,,,,,,,['Carnegie'],,,,,
+,,,,False,,02:00,,True,,Carnegie,True,,,08:00,,3.5,40.3877323,False,business,none,,,,False,wJr6kSA5dchdgOdwH6dZ2w,,False,,08:00,False,"['Burgers', 'Breakfast & Brunch', 'American (Traditional)', 'Restaurants']",True,08:00,Kings Family Restaurant,,False,-80.0928745,02:00,,02:00,,,02:00,1,False,False,,True,False,,8,,08:00,,02:00,PA,True,02:00,False,,False,,True,"2100 Washington Pike
+Carnegie, PA 15106",False,02:00,08:00,,08:00,casual,False,False,True,[],,,False,,08:00
+,,,,,,,,True,,Carnegie,True,,,,,3.5,40.3877323,,business,,,,,True,yXuao0pFz1AxB21vJjDf5w,,,,,,"['Food', 'Grocery']",,,Shop N'save,,False,-80.0928745,,,,,,,3,,False,,,False,,3,,,,,PA,True,,,,False,,,"2100 Washington Pike
+Carnegie, PA 15106",,,,,,,,,,[],,,,,
+False,False,,False,False,no,,,True,,Carnegie,False,,False,,False,4.0,40.3964688,False,business,full_bar,False,False,,False,fNGIbpazjTRdXgwRY_NIXA,False,False,,,False,"['Bars', 'American (Traditional)', 'Nightlife', 'Lounges', 'Restaurants']",True,,Rocky's Lounge,False,False,-80.0849416,,,,False,True,,2,False,False,False,True,False,False,5,False,,True,,PA,True,,False,,False,False,False,"1201 Washington Ave
+Carnegie, PA 15106",False,,,average,,casual,False,,True,[],False,False,False,False,
+True,,,False,False,,14:30,no,True,True,Carnegie,False,False,True,06:00,False,4.5,40.3967441,False,business,none,True,False,,True,b9WZJp5L1RZr4F1nxclOoQ,False,False,False,06:00,False,"['Breakfast & Brunch', 'Restaurants']",True,06:00,Gab & Eat,,False,-80.0847998,14:30,yes_free,14:30,False,,12:30,1,True,False,,True,False,,38,,06:00,True,12:30,PA,False,14:30,False,True,False,False,True,"1073 Washington Ave
+Carnegie, PA 15106",False,14:30,06:00,average,07:00,casual,False,,False,[],,False,False,,06:00
+False,,,False,False,,,,True,,Carnegie,,,False,,False,4.0,40.404638,False,business,none,,False,,False,zaXDakTd3RXyOa7sMrUE1g,False,False,,,False,"['Cafes', 'Restaurants']",True,,Barb's Country Junction Cafe,,False,-80.089985,,,,False,,,1,False,False,,True,False,,5,,,False,,PA,True,,False,,False,False,True,"202 3rd Ave
+Carnegie
+Carnegie, PA 15106",True,,,average,,casual,False,,True,['Carnegie'],,False,False,,
+,,,,,,00:00,free,True,,Carnegie,,,,00:00,,4.0,40.417419,,business,,,,,,zgy27FSnvwdINfk5cXBIyQ,,,,00:00,,"['Hotels & Travel', 'Event Planning & Services', 'Hotels']",,00:00,Extended Stay America - Pittsburgh - Carnegie,,,-80.088557,00:00,,00:00,,,00:00,2,,,,,,,5,,00:00,,00:00,PA,True,00:00,,,,,,"520 North Bell Avenue
+Carnegie
+Carnegie, PA 15106",,00:00,00:00,,00:00,,,,,['Carnegie'],,,,,00:00
+False,True,,False,False,,,,False,,Carnegie,,,False,,False,3.5,40.40867,True,business,full_bar,,False,,False,WETE_LykpcnrC1sFcQ5EGg,False,True,,,True,"['Pubs', 'Irish', 'Nightlife', 'Bars', 'Restaurants']",True,,Paddy's Pour House,False,True,-80.085279,,,,False,False,,2,False,False,False,False,False,False,6,False,,True,,PA,True,,False,,False,False,True,"215 E Main St
+Carnegie
+Carnegie, PA 15106",False,,,average,,casual,False,,True,['Carnegie'],False,False,False,False,
+,,,,,,,,True,,Carnegie,,,,,,2.5,40.4085677,,business,,,,,,6o3RK6rTcN3nw-j-r2nQmA,,,,,,[],,,Porto Fino Pizzaria & Gyro,,,-80.0849924,,,,,,,,,,,,,,4,,,,,PA,,,,,,,,"231 E Main St
+Carnegie
+Carnegie, PA 15106",,,,,,,,,,['Carnegie'],,,,,
+,,,,,,19:00,,True,,Carnegie,,,,08:30,,5.0,40.4078889,,business,,,,,,woOVJ0Z2f6XNCDntHA3b_g,,,,08:30,,"['Local Services', 'Sewing & Alterations']",,08:30,Alteration World,,,-80.08606,19:00,,19:00,,,18:30,,,,,,,,5,,08:30,,,PA,False,19:00,,,,,,"117 E Mall Plz
+Carnegie
+Carnegie, PA 15106",,19:00,08:30,,,,,,,['Carnegie'],,,,,08:30
+False,,,False,False,,,no,True,,Carnegie,True,,False,,False,3.5,40.3868915,False,business,none,False,False,,False,rv7CY8G_XibTx82YhuqQRw,False,,,,,['Restaurants'],False,,Long John Silver's,,False,-80.0937037,,,,False,,,1,,False,,True,False,,3,,,False,,PA,True,,,,False,False,True,"Raceway Plz
+Carnegie, PA 15106",,,,average,,casual,,,True,[],,False,False,,
+,,,,,,,,True,,Carnegie,,,,,,2.0,40.39076,,business,,,,True,,e_U_FnpdKVgNb4mUN2cU_Q,,,,,,"['Health & Medical', 'Dentists', 'General Dentistry']",,,"Weinberg Lisa, DMD",,,-80.078657,,,,,,,,,,,,,,6,,,,,PA,,,,,,,,"2323 Greentree Rd
+Carnegie, PA 15106",,,,,,,,,,[],,,,,
+,,,,True,,,,True,,Carnegie,,,,,,2.5,40.408343,False,business,none,,,,False,SQ0j7bgSTazkVQlF5AnqyQ,,,,,,"['Chinese', 'Restaurants']",False,,Don Don Chinese Restaurant,,False,-80.084861,,,,,,,1,,False,,,False,,8,,,True,,PA,,,,,False,,True,"214 E Main St
+Carnegie
+Carnegie, PA 15106",,,,quiet,,casual,,,False,['Carnegie'],,,,,
+False,,,False,False,,,no,True,,Pittsburgh,,,False,,False,4.0,40.391255,False,business,none,False,False,,False,wqu7ILomIOPSduRwoWp4AQ,False,False,,,False,"['Breakfast & Brunch', 'American (Traditional)', 'Restaurants']",True,,Denny's,,False,-80.073426,,,,False,,,1,True,False,,True,False,,7,,,False,,PA,True,,False,,False,False,True,"2180 Greentree Rd
+Pittsburgh, PA 15220",True,,,average,,casual,False,,True,[],,False,False,,
+,,,,,,,,True,,Carnegie,,,,,,2.5,40.394305,,business,,,,,,1u2NauOy8xDj7aFQET680A,,,,,,"['Active Life', 'Gyms', 'Trainers', 'Fitness & Instruction']",,,Amerifit,,,-80.060154,,,,,,,,,,,,,,5,,,,,PA,,,,,,,,"100 Roessler Rd
+Carnegie, PA 15106",,,,,,,,,,[],,,,,
+False,,,False,False,,22:00,no,True,,Carnegie,True,,True,11:00,False,3.5,40.4082572,True,business,full_bar,True,False,,True,P1fJb2WQ1mXoiudj8UE44w,False,False,,11:00,True,"['Restaurants', 'Italian']",True,11:00,Papa J's,,True,-80.0854582,22:00,,22:00,False,,23:00,2,False,False,,True,False,,46,,11:00,True,21:00,PA,True,23:00,False,,False,False,True,"200 E Main St
+Carnegie
+Carnegie, PA 15106",False,22:00,11:00,quiet,11:00,casual,False,,True,['Carnegie'],,False,True,,11:00
+,,,,,,21:00,,True,,Pittsburgh,,,,09:00,,1.0,40.4704573376,,business,,,,True,,xxWFOD46ubTSF3nPRM19BA,,,,09:00,,"['Health & Medical', 'Periodontists', 'Dentists', 'Orthodontists']",,09:00,Emmert Dental Associates,,,-80.0889587402,21:00,,21:00,,,15:00,,,,,,,,3,,09:00,,,PA,,18:00,,,,,,"1730 Settlers Ridge Center Dr
+Pittsburgh, PA 15136",,21:00,09:00,,,,,,,[],,,,,08:00
+False,,,False,False,,,free,True,,Homestead,,,False,,False,2.0,40.412086,True,business,none,False,False,,False,PK6aSizckHFWk8i0oxt5DA,False,False,,,False,"['Burgers', 'Fast Food', 'Restaurants']",False,,McDonald's,,False,-79.910032,,,,False,,,1,False,False,,True,False,,5,,,False,,PA,True,,False,,False,False,True,"400 Waterfront Dr E
+Homestead
+Homestead, PA 15120",False,,,average,,casual,False,True,True,['Homestead'],,False,False,,
+,,,,,,,,True,,Homestead,,,,,,2.5,40.4116918,,business,beer_and_wine,,,,False,sRqB6flj3GtTZIZJQxf_oA,,,,,,['Restaurants'],,,Eat'n Park Hospitality Group,,False,-79.9123428,,,,,,,,,False,,,False,,3,,,,,PA,,,,,False,,,"285 Waterfront Dr E
+Homestead
+Homestead, PA 15120",,,,very_loud,,casual,,,,['Homestead'],,,,,
+,,,,,,,free,True,,Homestead,True,,,,,3.5,40.407091,True,business,,,,,False,3gmBc0qN_LtGbZAjTtHWZg,,,,,,"['Food', 'Coffee & Tea']",,,Starbucks,,True,-79.916958,,,,,,,2,,False,,,False,,16,,,,,PA,True,,,,False,,,"270 W Bridge St
+Homestead
+Homestead, PA 15120",,,,,,,,,,['Homestead'],,,,,
+,,,,,,22:00,,True,,Munhall,,,,09:00,,3.0,40.4140637,,business,,,,,True,yHTLTr-QN-loO_7XoxS8qg,,,,09:00,,"['Arts & Crafts', 'Shopping', 'Knitting Supplies', 'Hobby Shops']",,09:00,Michaels,,True,-79.9037778,22:00,,22:00,,,22:00,2,,False,,,False,,8,,09:00,,21:00,PA,True,22:00,,,False,,,"660 Waterfront Dr E
+Homestead
+Munhall, PA 15120",,22:00,09:00,,10:00,,,,,['Homestead'],,,,,09:00
+False,,,False,False,,00:00,no,True,,Munhall,True,,True,00:00,False,2.0,40.413496,False,business,none,False,False,,True,6ilJq_05xRgek_8qUp36-g,False,True,,00:00,False,"['Burgers', 'Fast Food', 'Restaurants']",True,00:00,Steak 'n Shake,,False,-79.9044562,00:00,,00:00,False,,00:00,1,False,False,,True,False,,36,,00:00,False,00:00,PA,True,00:00,False,True,False,False,True,"650 E  Waterfront Dr
+Homestead
+Munhall, PA 15120",False,00:00,00:00,average,00:00,casual,False,True,True,['Homestead'],,False,False,,00:00
+,,,,,,,,False,,Homestead,True,,,,,4.0,40.4116978,,business,,,,,False,57HN9fGRar_GckBmgHgemA,,,,,,"['Department Stores', 'Fashion', 'Shopping']",,,Filene's Basement,,False,-79.9124082,,,,,,,2,,False,,,False,,6,,,,,PA,,,,,False,,,"280 Waterfront Dr E
+Homestead
+Homestead, PA 15120",,,,,,,,,,['Homestead'],,,,,
+False,True,True,False,False,no,,no,True,,Homestead,True,,True,18:00,False,3.5,40.4094884,False,business,full_bar,False,False,,True,MKyk4F4HSzHF8v-4cYe3Ww,False,True,,,False,"['Bars', 'Nightlife', 'Restaurants']",True,,Sing Sing,False,False,-79.9151108,,,,False,False,02:00,2,False,False,False,False,False,True,25,False,18:00,False,,PA,True,02:00,False,,False,False,False,"171 E Bridge St
+Homestead
+Homestead, PA 15120",False,02:00,,very_loud,,casual,False,,True,['Homestead'],False,False,True,False,18:00
+,,,,,,16:30,,True,,Homestead,,,,08:00,,4.5,40.40682,,business,,,,,,0hrB2iwQZ52VZcZWYywXrA,,,,08:00,,"['Automotive', 'Body Shops']",,08:00,Joe Dilorio's Auto Body Shop,,,-79.912788,16:30,,16:30,,,,,,,,,,,9,,08:00,,,PA,,16:30,,,,,,"101 E 7th Ave
+Homestead
+Homestead, PA 15120",,16:30,08:00,,,,,,,['Homestead'],,,,,
+,,,,,,,,True,,Homestead,,,,,,2.5,40.4131349,,business,,,,,True,gClSqcwuLsgyZRCzhJc7Dg,,,,,,"['Shopping', 'Home Services', 'Building Supplies', 'Home & Garden', 'Hardware Stores', 'Nurseries & Gardening']",,,Lowe's,,False,-79.90155,,,,,,,2,,False,,,False,,6,,,,,PA,True,,,,False,,,"690 Waterfront Dr E
+Homestead
+Homestead, PA 15120",,,,,,,,,,['Homestead'],,,,,
+False,,True,False,False,,,,True,,Homestead,,,True,,,3.5,40.405311,True,business,full_bar,,False,,False,1qCuOcks5HRv67OHovAVpg,False,False,,,False,"['Pubs', 'Bars', 'American (New)', 'Nightlife', 'Restaurants']",True,,Duke's Upper Deck Cafe,,True,-79.912595,,,,False,,,2,False,False,,True,False,,16,,,True,,PA,True,,True,,False,False,True,"122 W 8th Ave
+Homestead
+Homestead, PA 15120",False,,,loud,,casual,False,,True,['Homestead'],,False,False,,
+False,,,False,False,,00:00,,True,,Homestead,True,False,True,11:30,False,3.0,40.4097113,False,business,full_bar,False,False,,True,sbW8qHJgzEIH42B0S-3New,False,True,False,11:30,False,"['Arts & Entertainment', 'American (Traditional)', 'Arcades', 'Restaurants']",True,11:30,Dave & Buster's,,False,-79.9140822,00:00,yes_free,00:00,False,,02:00,2,False,False,,True,False,,52,,11:30,True,00:00,PA,True,02:00,False,False,False,False,True,"180 E Waterfront Dr
+Homestead
+Homestead, PA 15120",False,00:00,11:30,very_loud,11:30,casual,False,,True,['Homestead'],,False,True,,11:30
+False,,,False,False,,02:00,no,True,,Homestead,True,,True,11:00,False,3.5,40.4094884,True,business,full_bar,False,False,,True,McikHxxEqZ2X0joaRNKlaw,False,False,,11:00,True,"['Food', 'American (Traditional)', 'Breweries', 'Restaurants']",True,11:00,Rock Bottom,,False,-79.9151108,02:00,,02:00,False,,02:00,2,False,False,,True,False,,94,,11:00,True,00:00,PA,True,02:00,False,False,False,False,True,"171 E Bridge St
+Homestead
+Homestead, PA 15120",False,02:00,11:00,average,11:00,casual,False,,True,['Homestead'],,False,True,,11:00
+False,False,False,False,,no,,,True,,Homestead,True,,True,,False,3.0,40.409092,False,business,full_bar,,False,,True,tv8cS4aaA1VDaInYgggb6g,False,,,,,"['Nightlife', 'Comedy Clubs']",,,Improv Comedy Club,False,True,-79.914897,,,,False,False,,2,,False,False,,False,False,34,False,,False,,PA,True,,,,False,False,,"166 E Bridge St
+Homestead
+Homestead, PA 15120",,,,very_loud,,,,,True,['Homestead'],False,False,,False,
+,,,,,,00:00,,True,,Homestead,True,,,06:00,,3.5,40.411484,,business,,,,,True,eT5Ck7Gg1dBJobca9VFovw,,,,06:00,,"['Videos & Video Game Rental', 'Books, Mags, Music & Video', 'Grocery', 'Shopping', 'Food']",,06:00,Giant Eagle,,False,-79.90877,00:00,,00:00,,,00:00,2,,False,,,False,,22,,06:00,,00:00,PA,True,00:00,,,False,,,"420 Waterfront Dr E
+Homestead
+Homestead, PA 15120",,00:00,06:00,,06:00,,,,,['Homestead'],,,,,06:00
+,,,,,,21:00,,True,,Homestead,True,,,10:00,,3.5,40.4083798,,business,,,,,False,HwwEfnZKLNOUoqfgcwAgcQ,,,,10:00,,"['Books, Mags, Music & Video', 'Shopping', 'Bookstores']",,10:00,Barnes & Noble Booksellers,,True,-79.9158762,21:00,,21:00,,,22:00,2,,False,,,False,,10,,10:00,,20:00,PA,True,22:00,,,False,,,"100 W Bridge St
+Homestead
+Homestead, PA 15120",,21:00,10:00,,11:00,,,,,['Homestead'],,,,,10:00
+False,False,True,False,False,outdoor,02:00,free,True,,West Homestead,True,,True,11:00,False,2.5,40.4070709,True,business,full_bar,False,False,,True,EoAY1JSVeJriBzId8lUQwQ,False,True,,11:00,True,"['Bars', 'American (New)', 'Nightlife', 'Restaurants']",True,11:00,Bar Louie,False,False,-79.917508,02:00,,02:00,False,True,02:00,2,False,False,False,False,False,False,46,False,11:00,True,02:00,PA,True,02:00,False,,False,False,True,"244 W Bridge St
+Homestead
+West Homestead, PA 15120",False,02:00,11:00,loud,11:00,casual,False,,True,['Homestead'],False,False,True,False,11:00
+,,,,,,18:00,,True,,Homestead,,,,11:00,,3.0,40.395691,,business,,,,,,uI0LvTXFACid1308KFO5ew,,,,11:00,,"['Active Life', 'Swimming Pools']",,11:00,Sandcastle Water Park,,,-79.9337369,18:00,,18:00,,,18:00,,,,,True,,,13,,11:00,,18:00,PA,,18:00,,,,,,"1000 Sandcastle Dr
+Hays
+Homestead, PA 15120",,18:00,11:00,,11:00,,,,,['Hays'],,,,,11:00
+,,,,,,17:00,,True,,Homestead,True,,,08:00,,5.0,40.4089932,,business,,,,,False,Y4CcDDyMoDpK7BbpKawWjw,,,,08:00,,"['Mattresses', 'Shopping', 'Home & Garden']",,08:00,American Buyers Discount Mattress Store,,True,-79.9073564,17:00,,17:00,,,17:00,2,,False,,,False,,3,,08:00,,17:00,PA,True,17:00,,,False,,,"401 E 8th Ave
+Homestead
+Homestead, PA 15120",,17:00,08:00,,12:00,,,,,['Homestead'],,,,,08:00
+,,,,,,,,True,,Homestead,,,,,,4.5,40.4027249,,business,,,,,,RxKrw38oyeYszQ6guY5b1A,,,,,,"['Hotels & Travel', 'Airport Shuttles', 'Limos', 'Transportation']",,,First Class Limousine Service,,,-79.904308,,,,,,,,,,,,,,9,,,,,PA,,,,,,,,"207 E 16th Ave Apt 1
+Homestead
+Homestead, PA 15120",,,,,,,,,,['Homestead'],,,,,
+,,,,True,,22:00,no,True,,Munhall,True,,,11:00,,2.5,40.3867759,False,business,none,,,,False,TfvWSIAMFZ9zI3y2-K6wOA,,False,,11:00,False,"['Food', 'Food Delivery Services', 'Chinese', 'Restaurants']",,11:00,The Dragon Chinese Cuisine,,False,-79.9028194,22:00,,22:00,,,22:30,1,False,False,,False,False,,4,,11:00,False,22:00,PA,True,22:30,False,,False,,True,"3360 Main St
+Munhall, PA 15120",False,22:00,11:00,,12:00,casual,False,,False,[],,,False,,11:00
+False,,True,False,False,,,,True,,Homestead,,,False,,False,2.5,40.4087041,False,business,full_bar,True,False,,,tU-YtoW339PXJmUGSix_AQ,False,False,,,False,"['Bars', 'American (Traditional)', 'Nightlife', 'Restaurants']",True,,T.G.I. Friday's,,,-79.9175086,,,,False,,,2,False,,,True,,False,15,,,True,,PA,True,,False,,,False,True,"185 Waterfront Dr W
+Homestead
+Homestead, PA 15120",False,,,,,casual,False,,True,['Homestead'],,False,True,,
+False,,,False,False,,23:00,no,True,,Homestead,True,,True,11:00,False,3.0,40.410967,False,business,full_bar,True,False,,True,6p9TlP2I8S4agxYMNFSDjg,False,False,,11:00,True,"['American (Traditional)', 'Pizza', 'Gluten-Free', 'Restaurants']",True,11:00,Uno Pizzeria & Grill,,False,-79.9141364,23:00,,23:00,False,,00:00,2,False,False,,True,False,,33,,11:00,True,00:00,PA,True,23:00,False,,False,False,True,"205 East Waterfront Drive
+Homestead
+Homestead, PA 15120",False,23:00,11:00,average,11:00,casual,False,,True,['Homestead'],,False,False,,11:00
+,,,,,,,,True,,Homestead,,,,,,2.0,40.4071786,,business,,,,,False,XhbC5Qj5nBcqcKLPRd8izQ,,,,,,"['Lingerie', 'Shopping', 'Fashion']",,,Victoria's Secret,,True,-79.9163778,,,,,,,3,,False,,,False,,3,,,,,PA,True,,,,False,,,"229 W Bridge St
+Homestead
+Homestead, PA 15120",,,,,,,,,,['Homestead'],,,,,
+False,,,False,False,,22:00,no,True,,Homestead,True,,True,11:00,False,3.0,40.4071112,False,business,full_bar,False,False,,True,JDDeaNfb0JXD1NbznSIC9g,False,False,,11:00,True,"['Gluten-Free', 'Asian Fusion', 'Chinese', 'Restaurants']",True,11:00,P F Chang's China Bistro,,False,-79.91615,22:00,,22:00,False,,23:00,2,False,False,,True,False,,64,,11:00,True,22:00,PA,True,23:00,True,True,False,False,True,"The Waterfront
+148 W Bridge St
+Homestead
+Homestead, PA 15120",False,22:00,11:00,loud,11:00,casual,False,,True,['Homestead'],,False,True,,11:00
+,,,,,,21:00,,True,,Homestead,,,,10:00,,4.0,40.4081509,,business,,,,,False,oPX8bpZ3dqviYQuic0Ahqw,,,,10:00,,"['Fashion', 'Shopping', 'Shoe Stores']",,10:00,Gordon Shoes,,False,-79.9161483,21:00,,21:00,,,21:00,2,,False,,,False,,5,,10:00,,18:00,PA,True,21:00,,,False,,,"112 W Bridge St
+Homestead
+Homestead, PA 15120",,21:00,10:00,,12:00,,,,,['Homestead'],,,,,10:00
